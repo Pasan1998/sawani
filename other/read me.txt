@@ -1,0 +1,11 @@
+User name and PW
+
+For User
+
+Login Details for user: 
+Thej/ThejaniS
+Chamma/Chamma
+
+For Admin Panel
+
+Login Details for admin : admin/admin
